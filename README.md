@@ -1,2 +1,2 @@
 # More-Sculpture
-more sculpture comp version
+Patched more sculpture mod to be compatible for HCSK 
