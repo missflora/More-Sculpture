@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>More Sculpture</name>
+  <author>[ROK]Bichang</author>
+  <targetVersion>0.17.1557</targetVersion>
+  <description>
+조각상들의 텍스쳐를 각각 사이즈마다 11개씩 추가합니다.
+
+소형,대형,초대형 합쳐서 9개의 텍스쳐가 42개가 됩니다.
+
+Add 11 types of texture to each piece of the statue.
+
+Combined with 9 existing textured screws, the total is 42 kinds of texture.
+
+</description>
+</ModMetaData>
